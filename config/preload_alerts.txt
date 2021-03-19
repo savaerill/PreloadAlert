@@ -7,23 +7,23 @@
 #
 ###################################################################################################
 # BREACH
-Metadata/Chests/Breach/BreachChest1Large; Xoph's Clasped Hand; ffFF5A5A
-Metadata/Chests/Breach/BreachChest2Large; Tul's Clasped Hand; ffE0ffff
-Metadata/Chests/Breach/BreachChest3Large; Esh's Clasped Hand; ff6495ED
-Metadata/Chests/Breach/BreachChest4Large; Uul-Netol's Clasped Hand; ffD2B48C
-Metadata/Chests/Breach/BreachChest5Large; Chayula's Clasped Hand; ffE8B2CE
+Metadata/Chests/Breach/BreachChest1Large; SuoFu Clasped Hand; ffFF5A5A
+Metadata/Chests/Breach/BreachChest2Large; TuoWo Clasped Hand; ffE0ffff
+Metadata/Chests/Breach/BreachChest3Large; AiXu Clasped Hand; ff6495ED
+Metadata/Chests/Breach/BreachChest4Large; WuNiErDuo Clasped Hand; ffD2B48C
+Metadata/Chests/Breach/BreachChest5Large; XiaWuLa Clasped Hand; ffE8B2CE
 
-Metadata/Monsters/BreachBosses/BreachBossFireWild; Lord Xoph, Dark Embers; ffFF5A5A
-Metadata/Monsters/BreachBosses/BreachBossColdWild;  Lord Tul, Creeping Avalanche; ffE0ffff
-Metadata/Monsters/BreachBosses/BreachBossLightningWild; Lord Esh, Forked Thought; ff6495ED
-Metadata/Monsters/BreachBosses/BreachBossChaosWild; Lord Chayula, Who Dreamt; ffC23B80
-Metadata/Monsters/BreachBosses/BreachBossPhysicalWild; Lord Uul-Netol, Unburdened Flesh; ffD2B48C
+Metadata/Monsters/BreachBosses/BreachBossFireWild; Lord SuoFu, Dark Embers; ffFF5A5A
+Metadata/Monsters/BreachBosses/BreachBossColdWild;  Lord TuoWo, Creeping Avalanche; ffE0ffff
+Metadata/Monsters/BreachBosses/BreachBossLightningWild; Lord AiXu, Forked Thought; ff6495ED
+Metadata/Monsters/BreachBosses/BreachBossChaosWild; Lord XiaWuLa, Who Dreamt; ffC23B80
+Metadata/Monsters/BreachBosses/BreachBossPhysicalWild; Lord WuNiErDuo, Unburdened Flesh; ffD2B48C
 
-Metadata/Monsters/BreachBosses/BreachBossFireMap; Lord Xoph, Dark Embers; ffFF5A5A
-Metadata/Monsters/BreachBosses/BreachBossColdMap;  Lord Tul, Creeping Avalanche; ffE0ffff
-Metadata/Monsters/BreachBosses/BreachBossLightningMap; Lord Esh, Forked Thought; ff6495ED
-Metadata/Monsters/BreachBosses/BreachBossChaosMap; Lord Chayula, Who Dreamt; ffC23B80
-Metadata/Monsters/BreachBosses/BreachBossPhysicalMap; Lord Uul-Netol, Unburdened Flesh; ffD2B48C
+Metadata/Monsters/BreachBosses/BreachBossFireMap; Lord SuoFu, Dark Embers; ffFF5A5A
+Metadata/Monsters/BreachBosses/BreachBossColdMap;  Lord TuoWo, Creeping Avalanche; ffE0ffff
+Metadata/Monsters/BreachBosses/BreachBossLightningMap; Lord AiXu, Forked Thought; ff6495ED
+Metadata/Monsters/BreachBosses/BreachBossChaosMap; Lord XiaWuLa, Who Dreamt; ffC23B80
+Metadata/Monsters/BreachBosses/BreachBossPhysicalMap; Lord WuNiErDuo, Unburdened Flesh; ffD2B48C
 
 Metadata/Monsters/Daemon/BarrelOfSpidersDaemonUnique; Strange Barrel; ffD2742D
 Metadata/Monsters/Daemon/ChestDaemonSummonKaomTotems;  Kaom's Cache; ffD2742D
@@ -75,57 +75,57 @@ Metadata/Monsters/Perandus/PerandusGuardSecondaryBoss7; Arinea, Vault Binder; ff
 Metadata/Monsters/Perandus/PerandusGuardSecondaryBoss8; Meritania, Vault Binder; ffFFD700
 
 # HARBINGER
-Metadata/Monsters/Avatar/Avatar1; Harbinger Avatar1; ff3399ff
-Metadata/Monsters/Avatar/Avatar2; Harbinger Avatar2; ff3399ff
-Metadata/Monsters/Avatar/Avatar3_; Harbinger Avatar3_; ff3399ff
-Metadata/Monsters/Avatar/Avatar4; Harbinger Avatar4; ff3399ff
-Metadata/Monsters/Avatar/Avatar5; Harbinger Avatar5; ff3399ff
-Metadata/Monsters/Avatar/Avatar6; Harbinger Avatar6; ff3399ff
-Metadata/Monsters/Avatar/Avatar7; Harbinger Avatar7; ff3399ff
-Metadata/Monsters/Avatar/Avatar8; Harbinger Avatar8; ff3399ff
-Metadata/Monsters/Avatar/Avatar9; Harbinger Avatar9; ff3399ff
-Metadata/Monsters/Avatar/Avatar10; Harbinger Avatar10; ff3399ff
-Metadata/Monsters/Avatar/Avatar11; Harbinger Avatar11; ff3399ff
-Metadata/Monsters/Avatar/Avatar11Summoned_; Harbinger Avatar11Summoned_; ff3399ff
-Metadata/Monsters/Avatar/Avatar12; Harbinger Avatar12; ff3399ff
-Metadata/Monsters/Avatar/Avatar12Summoned; Harbinger Avatar12Summoned; ff3399ff
-Metadata/Monsters/Avatar/Avatar13; Harbinger Avatar13; ff3399ff
-Metadata/Monsters/Avatar/Avatar13Summoned; Harbinger Avatar13Summoned; ff3399ff
-Metadata/Monsters/Avatar/Avatar14; Harbinger Avatar14; ff3399ff
-Metadata/Monsters/Avatar/Avatar14Summoned; Harbinger Avatar14Summoned; ff3399ff
-Metadata/Monsters/Avatar/Avatar15; Harbinger Avatar15; ff3399ff
-Metadata/Monsters/Avatar/Avatar15Summoned; Harbinger Avatar15Summoned; ff3399ff
-Metadata/Monsters/Avatar/Avatar16; Harbinger Avatar16; ff3399ff
-Metadata/Monsters/Avatar/Avatar16Summoned; Harbinger Avatar16Summoned; ff3399ff
-Metadata/Monsters/Avatar/Avatar17; Harbinger Avatar17; ff3399ff
-Metadata/Monsters/Avatar/Avatar17Summoned; Harbinger Avatar17Summoned; ff3399ff
-Metadata/Monsters/Avatar/Avatar18; Harbinger Avatar18; ff3399ff
-Metadata/Monsters/Avatar/Avatar18Summoned; Harbinger Avatar18Summoned; ff3399ff
-Metadata/Monsters/Avatar/Avatar19; Harbinger Avatar19; ff3399ff
-Metadata/Monsters/Avatar/Avatar19Summoned; Harbinger Avatar19Summoned; ff3399ff
-Metadata/Monsters/Avatar/Avatar20; Harbinger Avatar20; ff3399ff
+Metadata/Monsters/Avatar/Avatar1; XianQu Avatar1; ff3399ff
+Metadata/Monsters/Avatar/Avatar2; XianQu Avatar2; ff3399ff
+Metadata/Monsters/Avatar/Avatar3_; XianQu Avatar3_; ff3399ff
+Metadata/Monsters/Avatar/Avatar4; XianQu Avatar4; ff3399ff
+Metadata/Monsters/Avatar/Avatar5; XianQu Avatar5; ff3399ff
+Metadata/Monsters/Avatar/Avatar6; XianQu Avatar6; ff3399ff
+Metadata/Monsters/Avatar/Avatar7; XianQu Avatar7; ff3399ff
+Metadata/Monsters/Avatar/Avatar8; XianQu Avatar8; ff3399ff
+Metadata/Monsters/Avatar/Avatar9; XianQu Avatar9; ff3399ff
+Metadata/Monsters/Avatar/Avatar10; XianQu Avatar10; ff3399ff
+Metadata/Monsters/Avatar/Avatar11; XianQu Avatar11; ff3399ff
+Metadata/Monsters/Avatar/Avatar11Summoned_; XianQu Avatar11Summoned_; ff3399ff
+Metadata/Monsters/Avatar/Avatar12; XianQu Avatar12; ff3399ff
+Metadata/Monsters/Avatar/Avatar12Summoned; XianQu Avatar12Summoned; ff3399ff
+Metadata/Monsters/Avatar/Avatar13; XianQu Avatar13; ff3399ff
+Metadata/Monsters/Avatar/Avatar13Summoned; XianQu Avatar13Summoned; ff3399ff
+Metadata/Monsters/Avatar/Avatar14; XianQu Avatar14; ff3399ff
+Metadata/Monsters/Avatar/Avatar14Summoned; XianQu Avatar14Summoned; ff3399ff
+Metadata/Monsters/Avatar/Avatar15; XianQu Avatar15; ff3399ff
+Metadata/Monsters/Avatar/Avatar15Summoned; XianQu Avatar15Summoned; ff3399ff
+Metadata/Monsters/Avatar/Avatar16; XianQu Avatar16; ff3399ff
+Metadata/Monsters/Avatar/Avatar16Summoned; XianQu Avatar16Summoned; ff3399ff
+Metadata/Monsters/Avatar/Avatar17; XianQu Avatar17; ff3399ff
+Metadata/Monsters/Avatar/Avatar17Summoned; XianQu Avatar17Summoned; ff3399ff
+Metadata/Monsters/Avatar/Avatar18; XianQu Avatar18; ff3399ff
+Metadata/Monsters/Avatar/Avatar18Summoned; XianQu Avatar18Summoned; ff3399ff
+Metadata/Monsters/Avatar/Avatar19; XianQu Avatar19; ff3399ff
+Metadata/Monsters/Avatar/Avatar19Summoned; XianQu Avatar19Summoned; ff3399ff
+Metadata/Monsters/Avatar/Avatar20; XianQu Avatar20; ff3399ff
 
 # Apparently better Harbingers?
-Metadata/Monsters/Avatar/Avatar21; Harbinger Avatar21; ffff00ff
-Metadata/Monsters/Avatar/Avatar22; Harbinger Avatar22; ffff00ff
-Metadata/Monsters/Avatar/Avatar23; Harbinger Avatar23; ffff00ff
-Metadata/Monsters/Avatar/Avatar24_; Harbinger Avatar24_; ffff00ff
-Metadata/Monsters/Avatar/Avatar25; Harbinger Avatar25; ffff00ff
-Metadata/Monsters/Avatar/Avatar26; Harbinger Avatar26; ffff00ff
-Metadata/Monsters/Avatar/Avatar27; Harbinger Avatar27; ffff00ff
-Metadata/Monsters/Avatar/Avatar28; Harbinger Avatar28; ffff00ff
-Metadata/Monsters/Avatar/Avatar29; Harbinger Avatar29; ffff00ff
-Metadata/Monsters/Avatar/Avatar30; Harbinger Avatar30; ffff00ff
-Metadata/Monsters/Avatar/Avatar31; Harbinger Avatar31; ffff00ff
-Metadata/Monsters/Avatar/Avatar32; Harbinger Avatar32; ffff00ff
-Metadata/Monsters/Avatar/Avatar33; Harbinger Avatar33; ffff00ff
-Metadata/Monsters/Avatar/Avatar34; Harbinger Avatar34; ffff00ff
-Metadata/Monsters/Avatar/Avatar35; Harbinger Avatar35; ffff00ff
+Metadata/Monsters/Avatar/Avatar21; XianQu Avatar21; ffff00ff
+Metadata/Monsters/Avatar/Avatar22; XianQu Avatar22; ffff00ff
+Metadata/Monsters/Avatar/Avatar23; XianQu Avatar23; ffff00ff
+Metadata/Monsters/Avatar/Avatar24_; XianQu Avatar24_; ffff00ff
+Metadata/Monsters/Avatar/Avatar25; XianQu Avatar25; ffff00ff
+Metadata/Monsters/Avatar/Avatar26; XianQu Avatar26; ffff00ff
+Metadata/Monsters/Avatar/Avatar27; XianQu Avatar27; ffff00ff
+Metadata/Monsters/Avatar/Avatar28; XianQu Avatar28; ffff00ff
+Metadata/Monsters/Avatar/Avatar29; XianQu Avatar29; ffff00ff
+Metadata/Monsters/Avatar/Avatar30; XianQu Avatar30; ffff00ff
+Metadata/Monsters/Avatar/Avatar31; XianQu Avatar31; ffff00ff
+Metadata/Monsters/Avatar/Avatar32; XianQu Avatar32; ffff00ff
+Metadata/Monsters/Avatar/Avatar33; XianQu Avatar33; ffff00ff
+Metadata/Monsters/Avatar/Avatar34; XianQu Avatar34; ffff00ff
+Metadata/Monsters/Avatar/Avatar35; XianQu Avatar35; ffff00ff
 
 # BESTIARY
-Metadata/Monsters/Masters/Einhar; Einhar, Beastmaster; ff64ffff
+Metadata/Monsters/Masters/Einhar; ShouLie, DaShi; ff64ffff
 Metadata/Monsters/LeagueBestiary/BlackScorpionBestiary;Fenumal Scorpion [Randomise Unique]; ffd2742d
-Metadata/Monsters/LeagueBestiary/ParasiticSquidBestiary;Craicic Vassal [30% Quality Corruption]; ffd2742d
+Metadata/Monsters/LeagueBestiary/ParasiticSquidBestiary;ShenHaiJiShenZhe [30% Quality Corruption]; ffd2742d
 Metadata/Monsters/LeagueBestiary/TigerBestiarySpiritBoss;Farrul, First of the Plains [Craft Aspect of the Cat skill]; ffd2742d
 Metadata/Monsters/LeagueBestiary/MarakethBirdSpiritBoss;Saqawal, First of the Sky [Craft Aspect of the Avian skill]; ffd2742d
 Metadata/Monsters/LeagueBestiary/SpiderPlatedBestiarySpiritBoss;Fenumus, First of the Night [Craft Aspect of the Spider skill]; ffd2742d
@@ -149,26 +149,26 @@ Metadata/Monsters/LeagueBestiary/FrogBestiary;Craicic Maw [Unique Axe]; ffd2742d
 Metadata/Monsters/LeagueBestiary/BestiarySpiker;Farric Goliath [Unique Bow]; ffd2742d
 Metadata/Monsters/LeagueBestiary/SandLeaperBestiary;Fenumal Scrabbler [Unique Wand]; ffd2742d
 Metadata/Monsters/LeagueBestiary/BestiaryBull;Farric Taurus [Unique Map]; ffd2742d
-Metadata/Monsters/LeagueBestiary/GemFrogBestiary;Craicic Chimeral [Imprint of a Magic Item]; ffd2742d
-Metadata/Monsters/LeagueBestiary/HoundBestiary;Farric Magma Hound [23% Quality Corrupted Gem]; ffd2742d
-Metadata/Monsters/LeagueBestiary/PitbullBestiary;Farric Pit Hound [Level 21 Corrupted Gem]; ffd2742d
+Metadata/Monsters/LeagueBestiary/GemFrogBestiary;ShenHaiQiMeiLa [Imprint of a Magic Item]; ffd2742d
+Metadata/Monsters/LeagueBestiary/HoundBestiary;DaDiRongYanLieQuan [23% Quality Corrupted Gem]; ffd2742d
+Metadata/Monsters/LeagueBestiary/PitbullBestiary;DaDiShenSuiLieQuan [Level 21 Corrupted Gem]; ffd2742d
 Metadata/Monsters/LeagueBestiary/VultureBestiary;Saqawine Vulture [Fully-linked Six-socket Rare]; ffd2742d
 Metadata/Monsters/LeagueBestiary/IguanaBestiary;Saqawine Chimeral [10 Random Currency]; ffd2742d
 Metadata/Monsters/LeagueBestiary/RhoaBestiary;Saqawine Rhoa [8 Chromatic Orbs]; ffd2742d
 Metadata/Monsters/LeagueBestiary/ShieldCrabBestiary;Craicic Shield Crab [4 Jeweller's Orbs]; ffd2742d
 Metadata/Monsters/LeagueBestiary/SandSpitterBestiary;Craicic Sand Spitter [Orb of Fusing]; ffd2742d
-Metadata/Monsters/LeagueBestiary/LynxBestiary;Farric Lynx Alpha [Add Suffix, Remove Prefix]; ffd2742d
-Metadata/Monsters/LeagueBestiary/WolfBestiary;Farric Wolf Alpha [Add Prefix, Remove Suffix]; ffd2742d
-Metadata/Monsters/LeagueBestiary/TigerBestiary;Farric Tiger Alpha [Portal to Farrul's Den]; ffd2742d
-Metadata/Monsters/LeagueBestiary/Avians/MarakethBirdBestiary;Saqawine Rhex [Portal to Saqawal's Roost]; ffd2742d
-Metadata/Monsters/LeagueBestiary/SpiderPlatedBestiary;Fenumal Hybrid Arachnid [Portal to Fenumus' Lair]; ffd2742d
-Metadata/Monsters/LeagueBestiary/CrabSpiderBestiary;Craicic Spider Crab [Portal to Craiceann's Cove]; ffd2742d
+Metadata/Monsters/LeagueBestiary/LynxBestiary;DaDiJuXingSheLi [Add Suffix, Remove Prefix]; ffd2742d
+Metadata/Monsters/LeagueBestiary/WolfBestiary;DaDiJuLang [Add Prefix, Remove Suffix]; ffd2742d
+Metadata/Monsters/LeagueBestiary/TigerBestiary;DaDiJuHu [Portal to Farrul's Den]; ffd2742d
+Metadata/Monsters/LeagueBestiary/Avians/MarakethBirdBestiary;CangKongXiongNiao [Portal to Saqawal's Roost]; ffd2742d
+Metadata/Monsters/LeagueBestiary/SpiderPlatedBestiary;AnYeHunDuZhuMo [Portal to Fenumus' Lair]; ffd2742d
+Metadata/Monsters/LeagueBestiary/CrabSpiderBestiary;ShenHaiZhiZhuXie [Portal to Craiceann's Cove]; ffd2742d
 Metadata/Monsters/LeagueBestiary/HellionBestiary2;Farric Frost Hellion Alpha [Reroll Rare Item Values]; ffd2742d
-Metadata/Monsters/LeagueBestiary/SpiderPlagueBestiary;Fenumal Plagued Arachnid [Split an Item in Two]; ffd2742d
+Metadata/Monsters/LeagueBestiary/SpiderPlagueBestiary;AnYeYiZhu [Split an Item in Two]; ffd2742d
 
 
 # BLIGHT
-Metadata/Monsters/Masters/BlightBuilderWild;Sister Cassia [Blight];ff00FF00
+Metadata/Monsters/Masters/BlightBuilderWild;Ka Xi Ya [Blight];ff00FF00
 
 # LEGION
 Metadata/Monsters/LegionLeague/LegionKaruiGeneral;Queen Hyrri Ngamaku [Karui];ff00FF00
@@ -188,19 +188,19 @@ Metadata/Monsters/LegionLeague/MonsterChestKarui2;Karui War Hoard;ff00FF00
 Metadata/Monsters/LegionLeague/MonsterChestKarui1;Karui Chest;ff00FF00
 
 # ABYSS
-Metadata/MiscellaneousObjects/Abyss/AbyssSubAreaTransition; Abyssal Depths; ff36B400
-Metadata/Monsters/ReligiousTemplar/AbyssLichBoss1; Abyss Lich - Ulaman; ff00FF00
-Metadata/Monsters/ReligiousTemplar/AbyssLichBoss2; Abyss Lich - Amanamu; ff00FF00
-Metadata/Chests/Abyss/AbyssFinalChest; Abyss #1; ff00AA00
-Metadata/Chests/Abyss/AbyssFinalChest2; Abyss #2; ff00AA00
-Metadata/Chests/Abyss/AbyssFinalChest3; Abyss #3; ff00AA00
-Metadata/Chests/Abyss/AbyssFinalChest4; Abyss #4; ff00AA00
+Metadata/MiscellaneousObjects/Abyss/AbyssSubAreaTransition; JueWangShenYuan; ff36B400
+Metadata/Monsters/ReligiousTemplar/AbyssLichBoss1; ShenYuan Lich - Ulaman; ff00FF00
+Metadata/Monsters/ReligiousTemplar/AbyssLichBoss2; ShenYuan Lich - Amanamu; ff00FF00
+Metadata/Chests/Abyss/AbyssFinalChest; ShenYuan #1; ff00AA00
+Metadata/Chests/Abyss/AbyssFinalChest2; ShenYuan #2; ff00AA00
+Metadata/Chests/Abyss/AbyssFinalChest3; ShenYuan #3; ff00AA00
+Metadata/Chests/Abyss/AbyssFinalChest4; ShenYuan #4; ff00AA00
 
 # BETRAYAL
-Metadata/NPC/League/Betrayal/BetrayalNinjaCopRaid; Syndicate Research; ff00FF00
-Metadata/Monsters/LeagueBetrayal/FortWall/FortWall; Syndicate Fortification; ff00FF00
-Metadata/Monsters/LeagueBetrayal/BetrayalOriathBlackguardMeleeChampionCartGuard; Syndicate Transportation; ff00FF00
-Metadata/Monsters/LeagueBetrayal/BetrayalCatarina; Catarina, Master of Undeath; ff36b4b4
+Metadata/NPC/League/Betrayal/BetrayalNinjaCopRaid; AnQuanWu KeYan; ff00FF00
+Metadata/Monsters/LeagueBetrayal/FortWall/FortWall; AnQuanWu FangWei; ff00FF00
+Metadata/Monsters/LeagueBetrayal/BetrayalOriathBlackguardMeleeChampionCartGuard; AnQuanWu YunShu; ff00FF00
+Metadata/Monsters/LeagueBetrayal/BetrayalCatarina; Catarina, DaShi KaTaLiNa; ff36b4b4
 
 # INCURSION
 Metadata/NPC/League/Incursion/TreasureHunterWild; Alva, Master Explorer; ff64ffff
@@ -210,20 +210,20 @@ Metadata/NPC/League/Delve/DelveMinerWildVein; Niko, Master of the Depths; ff64ff
 Metadata/NPC/League/Delve/DelveMinerWildChest; Niko, Master of the Depths; ff64ffff
 
 # METAMORPH
-Metadata/NPC/League/Metamorphosis/MetamorphosisNPCWild; Metamorph; ff36B400
+Metadata/NPC/League/Metamorphosis/MetamorphosisNPCWild; ZaiBian; ff36B400
 #Metadata/MiscellaneousObjects/Metamorphosis/MetamorphosisVat
 
 # DELIRIUM
-Metadata/MiscellaneousObjects/Affliction/AfflictionInitiator; Delirium; ff36B400
+Metadata/MiscellaneousObjects/Affliction/AfflictionInitiator; MiWu; ff36B400
 
 # HARVEST
-Metadata/Terrain/Leagues/Harvest/Objects/HarvestFeatureChest; Harvest; ff36B400
-Metadata/Terrain/Leagues/Harvest/harvest_encounter.arm; Harvest; ff36B400 
+Metadata/Terrain/Leagues/Harvest/Objects/HarvestFeatureChest; ZhuangYuan; ff36B400
+Metadata/Terrain/Leagues/Harvest/harvest_encounter.arm; ZhuangYuan; ff36B400 
 
 # HEIST
-Metadata/Chests/LeagueHeist/HeistSmugglersCoinCache; Heist; ffcfb109
-Metadata/Chests/LeagueHeist/HeistSmugglersCoinCacheOutdoors; Heist; ffcfb109
-Metadata/Terrain/Leagues/Heist/Objects/CoinPortal; Heist; ff00FF00
+Metadata/Chests/LeagueHeist/HeistSmugglersCoinCache; JieBao; ffcfb109
+Metadata/Chests/LeagueHeist/HeistSmugglersCoinCacheOutdoors; JieBao; ffcfb109
+Metadata/Terrain/Leagues/Heist/Objects/CoinPortal; JieBao; ff00FF00
 
 ###################################################################################################
 #
