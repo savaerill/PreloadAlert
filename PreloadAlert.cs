@@ -1,4 +1,4 @@
-﻿using System;
+using System;
 using System.Collections;
 using System.Collections.Generic;
 using System.IO;
@@ -653,13 +653,13 @@ namespace PreloadAlert
 
             Preload = new Dictionary<string, PreloadConfigLine>
             {
-                {"Wild/StrDexInt", new PreloadConfigLine {Text = "Zana, Master Cartographer", FastColor = () => Settings.MasterZana}},
-                {"Wild/Int", new PreloadConfigLine {Text = "Catarina, Master of the Dead", FastColor = () => Settings.MasterCatarina}},
-                {"Wild/Dex", new PreloadConfigLine {Text = "Tora, Master of the Hunt", FastColor = () => Settings.MasterTora}},
-                {"Wild/DexInt", new PreloadConfigLine {Text = "Vorici, Master Assassin", FastColor = () => Settings.MasterVorici}},
-                {"Wild/Str", new PreloadConfigLine {Text = "Haku, Armourmaster", FastColor = () => Settings.MasterHaku}},
-                {"Wild/StrInt", new PreloadConfigLine {Text = "Elreon, Loremaster", FastColor = () => Settings.MasterElreon}},
-                {"Wild/Fish", new PreloadConfigLine {Text = "Krillson, Master Fisherman", FastColor = () => Settings.MasterKrillson}},
+                {"Wild/StrDexInt", new PreloadConfigLine {Text = "Za Na [Da Shi]", FastColor = () => Settings.MasterZana}},
+                {"Wild/Int", new PreloadConfigLine {Text = "Ka Ta Lin Na [Da Shi]", FastColor = () => Settings.MasterCatarina}},
+                {"Wild/Dex", new PreloadConfigLine {Text = "Tuo La [Da Shi]", FastColor = () => Settings.MasterTora}},
+                {"Wild/DexInt", new PreloadConfigLine {Text = "Wa Li Xi [Da Shi]", FastColor = () => Settings.MasterVorici}},
+                {"Wild/Str", new PreloadConfigLine {Text = "Ha Ku [Da Shi]", FastColor = () => Settings.MasterHaku}},
+                {"Wild/StrInt", new PreloadConfigLine {Text = "Ai Er Lei En [Da Shi]", FastColor = () => Settings.MasterElreon}},
+                {"Wild/Fish", new PreloadConfigLine {Text = "Ke Li Song [Da Shi]", FastColor = () => Settings.MasterKrillson}},
                 {
                     "MasterStrDex1",
                     new PreloadConfigLine {Text = "Vagan, Weaponmaster (2HSword)", FastColor = () => Settings.MasterVagan}
